@@ -1,0 +1,55 @@
+Full Stack Data Science & AI @ 5:30 PM IST by Mr Prakash Senapathi 
+Full Stack DATA SCIENCE with GEN AI! by Mr. Prakash Senapathi.
+
+Join from the webinar link	https://nareshit.webex.com/nareshit/j.php?MTID=m61a312dd518153cebf86778403877977
+
+	Software Installation:	https://youtu.be/PhIAQ8rE2xc?si=O-K1FHF_1a1FeT4o
+👉 Backup Videos:
+	Day-1:	https://youtu.be/yA4O1lgNT_k
+	Day-2:	https://youtu.be/85MviRM5mfw
+	Day-3:	https://youtu.be/nC5tYoJrlFg
+	Day-4:	https://youtu.be/MjgcGt2VKLo
+	Day-5:	https://youtu.be/srk3MrK7d7g
+	Day-6:	https://youtu.be/xkCNwLub33U
+	Day-7:	https://youtu.be/5ZX5z50U0ek
+	Day-8:	https://youtu.be/t-LmINc-egA
+
+
+Best Regards,
+Naresh IT
+https://www.instagram.com/nareshitech/
+
+
+Full Stack DATA SCIENCE & AI @ 5:30 PM (IST) by Mr. Prakash senapathi sir From 7th april Fee: Rs. 21,000 /- (Including GST) without Videos Fee : Rs.27,000 /- (Including GST) with Videos Videos validity including course duration and extra 6 months After full payment only u will receive video accecces . Total course Duration-5 months ONCE FEE PAID WONT GET REFUND Razor pay payment link https://rzp.io/l/NareshITech ( credit card , phonepe , googlepe, paytm ) BANK A/C DETAILS : Name: Naresh i Technologies A/C No. 50200022639833 Bank: HDFC A/C Type: Current Account IFSC Code: HDFC0001627 MICR Code: 500240035 Branch Code: 001627 Branch: Ameerpet Once Your Payment done please send me your payment screenshot Admin Prem ( Only whatsapp) Mobile: 7997997901 After payment please send me below details on WhatsApp (7997997901) Payment screenshot Name : Mobile No : Email I'd : Course : Data science Faculty name :Mr.Prakash senapathi si
+
+
+
+https://learn.nareshit.com/enrollments
+
+
+
+^^^^^^^^^^ONLINE MENTOR ==> 9-6 Mon-Sat - Lab support
+Data science mentor link-1:
+https://zoom.us/j/82068816627?pwd=3BYepgjDCqbkroxauQGo2T4gr9f7Fn.1
+
+Data Science link-2
+https://zoom.us/j/86433658207?pwd=7abh6fYZ1McPZsguCNgEaONRoKKY7Y.1
+Password - 112233
+------------------------------------------------------------------------------------------
+GitHub
+	https://github.com/Pradeeppiscean/pradeep
+		ppiscean@gmail.com/welcome27IBM
+
+https://github.com/Pradeeppiscean/FSDS.git	
+	echo "# FSDS" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/Pradeeppiscean/FSDS.git
+	git push -u origin main	
+
+	git remote add origin https://github.com/Pradeeppiscean/FSDS.git
+	git branch -M main
+	git push -u origin main
+	
